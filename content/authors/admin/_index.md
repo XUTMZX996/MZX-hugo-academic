@@ -1,5 +1,5 @@
 ---
-title: Alice Bighetti 吳恩達
+title: Ma Zhaoxi 马召熙
 role: Professor of Artificial Intelligence
 avatar_filename: img_68852.jpg
 bio: My research interests include distributed robotics, mobile computing and
