@@ -1,6 +1,6 @@
 ---
 title: Ma Zhaoxi 马召熙
-role: Phd MZX
+role: Phd Student of Architecture
 avatar_filename: img_68852.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
